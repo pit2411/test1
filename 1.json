@@ -1,0 +1,386 @@
+{
+    "DELIVERY_NUM": "00016720",
+    "DELIVERY_DATE": "04/01/22",
+    "CUSTOMER_Code": "            38",
+    "CUSTOMER_NAME": "טבריה - מתחם דנילוף (חדש)",
+    "Order_Num": "    31776",
+    "Order_ExtNum": ".",
+    "Pallets": [
+        {
+            "Pallet_Num": " 142824",
+            "Weight_Brutto": "    809",
+            "Products": [
+                {
+                    "Product_Code": "7290012086113",
+                    "Product_Name": "שרי אשכולות ארוז",
+                    "Qty": "     2",
+                    "Weight_Netto": "     32"
+                },
+                {
+                    "Product_Code": "311",
+                    "Product_Name": "תפוא אדום קטן ברשת",
+                    "Qty": "     5",
+                    "Weight_Netto": "     61"
+                },
+                {
+                    "Product_Code": "722",
+                    "Product_Name": "אפרסמון קרמבו",
+                    "Qty": "     1",
+                    "Weight_Netto": "      9"
+                },
+                {
+                    "Product_Code": "662",
+                    "Product_Name": "חסה עגולה",
+                    "Qty": "     1",
+                    "Weight_Netto": "      6"
+                },
+                {
+                    "Product_Code": "681",
+                    "Product_Name": "כרוב לבן",
+                    "Qty": "    18",
+                    "Weight_Netto": "    136"
+                },
+                {
+                    "Product_Code": "682",
+                    "Product_Name": "כרוב אדום",
+                    "Qty": "     2",
+                    "Weight_Netto": "     18"
+                },
+                {
+                    "Product_Code": "635",
+                    "Product_Name": "גזר",
+                    "Qty": "    14",
+                    "Weight_Netto": "    182"
+                },
+                {
+                    "Product_Code": "692",
+                    "Product_Name": "לפת",
+                    "Qty": "     1",
+                    "Weight_Netto": "     11"
+                },
+                {
+                    "Product_Code": "756",
+                    "Product_Name": "קולורבי",
+                    "Qty": "     3",
+                    "Weight_Netto": "     38"
+                },
+                {
+                    "Product_Code": "625",
+                    "Product_Name": "דלורית",
+                    "Qty": "     1",
+                    "Weight_Netto": "     10"
+                },
+                {
+                    "Product_Code": "7290016980103",
+                    "Product_Name": "בייבי בטטה",
+                    "Qty": "     2",
+                    "Weight_Netto": "     16"
+                },
+                {
+                    "Product_Code": "896",
+                    "Product_Name": "פלפל שושקה אדום",
+                    "Qty": "     5",
+                    "Weight_Netto": "     25"
+                },
+                {
+                    "Product_Code": "2766056",
+                    "Product_Name": "שרי וויטני",
+                    "Qty": "     2",
+                    "Weight_Netto": "     32"
+                },
+                {
+                    "Product_Code": "473",
+                    "Product_Name": "קישוא זוקיני",
+                    "Qty": "     1",
+                    "Weight_Netto": "     10"
+                },
+                {
+                    "Product_Code": "622",
+                    "Product_Name": "בטטה",
+                    "Qty": "     5",
+                    "Weight_Netto": "     68"
+                },
+                {
+                    "Product_Code": "7290005610127",
+                    "Product_Name": "תפוא גורמה",
+                    "Qty": "     4",
+                    "Weight_Netto": "     44"
+                }
+            ]
+        },
+        {
+            "Pallet_Num": " 142856",
+            "Weight_Brutto": "    869",
+            "Products": [
+                {
+                    "Product_Code": "775",
+                    "Product_Name": "שומר",
+                    "Qty": "    12",
+                    "Weight_Netto": "    125"
+                },
+                {
+                    "Product_Code": "744",
+                    "Product_Name": "פומלה",
+                    "Qty": "     3",
+                    "Weight_Netto": "     22"
+                },
+                {
+                    "Product_Code": "646",
+                    "Product_Name": "פומלית",
+                    "Qty": "     3",
+                    "Weight_Netto": "     21"
+                },
+                {
+                    "Product_Code": "608",
+                    "Product_Name": "אפרסמון",
+                    "Qty": "     5",
+                    "Weight_Netto": "     45"
+                },
+                {
+                    "Product_Code": "715",
+                    "Product_Name": "סלק",
+                    "Qty": "     3",
+                    "Weight_Netto": "     41"
+                },
+                {
+                    "Product_Code": "797",
+                    "Product_Name": "תפוז",
+                    "Qty": "    21",
+                    "Weight_Netto": "    242"
+                },
+                {
+                    "Product_Code": "754",
+                    "Product_Name": "קלמנטינה",
+                    "Qty": "     3",
+                    "Weight_Netto": "     28"
+                },
+                {
+                    "Product_Code": "755",
+                    "Product_Name": "קישואים",
+                    "Qty": "     8",
+                    "Weight_Netto": "    108"
+                },
+                {
+                    "Product_Code": "799",
+                    "Product_Name": "תפוז ברשת",
+                    "Qty": "     8",
+                    "Weight_Netto": "     91"
+                },
+                {
+                    "Product_Code": "691",
+                    "Product_Name": "לימון",
+                    "Qty": "     3",
+                    "Weight_Netto": "     31"
+                }
+            ]
+        },
+        {
+            "Pallet_Num": " 142876",
+            "Weight_Brutto": "    734",
+            "Products": [
+                {
+                    "Product_Code": "725",
+                    "Product_Name": "עגבניה אשכולות",
+                    "Qty": "    60",
+                    "Weight_Netto": "    630"
+                }
+            ]
+        },
+        {
+            "Pallet_Num": " 142881",
+            "Weight_Brutto": "    808",
+            "Products": [
+                {
+                    "Product_Code": "783",
+                    "Product_Name": "תפוא אדום ארוז",
+                    "Qty": "    15",
+                    "Weight_Netto": "    303"
+                },
+                {
+                    "Product_Code": "742",
+                    "Product_Name": "פלפל אדום",
+                    "Qty": "    15",
+                    "Weight_Netto": "    148"
+                },
+                {
+                    "Product_Code": "785",
+                    "Product_Name": "תפוא לבן ארוז",
+                    "Qty": "    12",
+                    "Weight_Netto": "    241"
+                }
+            ]
+        },
+        {
+            "Pallet_Num": " 142910",
+            "Weight_Brutto": "    630",
+            "Products": [
+                {
+                    "Product_Code": "737",
+                    "Product_Name": "פלפל בהיר",
+                    "Qty": "     2",
+                    "Weight_Netto": "     16"
+                },
+                {
+                    "Product_Code": "735",
+                    "Product_Name": "פלפל ירוק",
+                    "Qty": "     1",
+                    "Weight_Netto": "     12"
+                },
+                {
+                    "Product_Code": "665",
+                    "Product_Name": "חציל בלאדי",
+                    "Qty": "     1",
+                    "Weight_Netto": "     10"
+                },
+                {
+                    "Product_Code": "734",
+                    "Product_Name": "פלפל צהוב",
+                    "Qty": "     2",
+                    "Weight_Netto": "     23"
+                },
+                {
+                    "Product_Code": "691",
+                    "Product_Name": "לימון",
+                    "Qty": "    13",
+                    "Weight_Netto": "    164"
+                },
+                {
+                    "Product_Code": "643",
+                    "Product_Name": "ארטישוק",
+                    "Qty": "     8",
+                    "Weight_Netto": "     75"
+                },
+                {
+                    "Product_Code": "648",
+                    "Product_Name": "פלפל כתום",
+                    "Qty": "     2",
+                    "Weight_Netto": "     19"
+                },
+                {
+                    "Product_Code": "661",
+                    "Product_Name": "חציל",
+                    "Qty": "    18",
+                    "Weight_Netto": "    200"
+                }
+            ]
+        },
+        {
+            "Pallet_Num": " 142941",
+            "Weight_Brutto": "    703",
+            "Products": [
+                {
+                    "Product_Code": "6888",
+                    "Product_Name": "שום יבש יחידה",
+                    "Qty": "     2",
+                    "Weight_Netto": "    100"
+                },
+                {
+                    "Product_Code": "789",
+                    "Product_Name": "תירס",
+                    "Qty": "     5",
+                    "Weight_Netto": "     53"
+                },
+                {
+                    "Product_Code": "644",
+                    "Product_Name": "דלעת ערמונים",
+                    "Qty": "     2",
+                    "Weight_Netto": "     14"
+                },
+                {
+                    "Product_Code": "696",
+                    "Product_Name": "מלון",
+                    "Qty": "     1",
+                    "Weight_Netto": "     10"
+                },
+                {
+                    "Product_Code": "7290016150117",
+                    "Product_Name": "סלק בואקום",
+                    "Qty": "     4",
+                    "Weight_Netto": "     48"
+                },
+                {
+                    "Product_Code": "757",
+                    "Product_Name": "קיווי",
+                    "Qty": "     3",
+                    "Weight_Netto": "     23"
+                },
+                {
+                    "Product_Code": "764",
+                    "Product_Name": "אשכולית אדומה",
+                    "Qty": "     1",
+                    "Weight_Netto": "     14"
+                },
+                {
+                    "Product_Code": "832",
+                    "Product_Name": "פסיפלורה",
+                    "Qty": "     1",
+                    "Weight_Netto": "      9"
+                },
+                {
+                    "Product_Code": "613",
+                    "Product_Name": "רימון",
+                    "Qty": "     6",
+                    "Weight_Netto": "     51"
+                },
+                {
+                    "Product_Code": "695",
+                    "Product_Name": "מלפפון",
+                    "Qty": "    23",
+                    "Weight_Netto": "    278"
+                },
+                {
+                    "Product_Code": "619",
+                    "Product_Name": "בצל אדום",
+                    "Qty": "     1",
+                    "Weight_Netto": "     13"
+                },
+                {
+                    "Product_Code": "7290000993560",
+                    "Product_Name": "שרי ליקופן",
+                    "Qty": "     1",
+                    "Weight_Netto": "     16"
+                }
+            ]
+        },
+        {
+            "Pallet_Num": " 142957",
+            "Weight_Brutto": "    679",
+            "Products": [
+                {
+                    "Product_Code": "623",
+                    "Product_Name": "בננה",
+                    "Qty": "    30",
+                    "Weight_Netto": "    375"
+                },
+                {
+                    "Product_Code": "606",
+                    "Product_Name": "אבוקדו",
+                    "Qty": "    63",
+                    "Weight_Netto": "    250"
+                }
+            ]
+        }
+    ],
+    "Summary": {
+        "Packs": [
+            {
+                "Pack_Code": "7000077",
+                "Pack_Cnt": "      242"
+            },
+            {
+                "Pack_Code": "7000076",
+                "Pack_Cnt": "       74"
+            }
+        ],
+        "Pallets": [
+            {
+                "Pallet_Code": "777771",
+                "Pallet_Cnt": "        6"
+            },
+            {
+                "Pallet_Code": "77777",
+                "Pallet_Cnt": "        1"
+            }
+        ]
+    }
+}
