@@ -1,0 +1,5 @@
+# create directory
+dir -Force
+git init  # create git hidden folder
+git add .
+git status # files ready to be commited
