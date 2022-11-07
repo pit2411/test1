@@ -3,3 +3,9 @@ dir -Force
 git init  # create git hidden folder
 git add .
 git status # files ready to be commited
+git commit -m "Add TXT File" -m "Some Desc"
+git push origin master # get error because not connected to repository
+git remote -v
+git remote add origin https://github.com/pit2411/test1.git
+git remote -v
+git push origin master   # open new branch "master", branch "main" already exist
