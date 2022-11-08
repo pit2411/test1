@@ -22,4 +22,9 @@ git checkout -b  smallfeature  # created and switched to new branch
 # make branch name descriptive as possible, pssible use char as "-" or "/", "feature-11"
 git checkout bigfeature # switch branch to "bigfeature"
 git checkout smallfeature # switch branch to "smallfeature"
+git add .
+git commit -m "change text in txt.txt small feature" -m "Some Desc"
+git push --set-upstream origin smallfeature  # or git push -u origin smallfeature
+git checkout master
+git diff bigfeature  # display difference between master and bigfeature
 
