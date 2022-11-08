@@ -26,5 +26,7 @@ git add .
 git commit -m "change text in txt.txt small feature" -m "Some Desc"
 git push --set-upstream origin smallfeature  # or git push -u origin smallfeature
 git checkout master
+git diff smallfeature  # display difference between master and bigfeature
+git merge smallfeature
 git diff bigfeature  # display difference between master and bigfeature
 
