@@ -28,4 +28,5 @@ git push --set-upstream origin smallfeature  # or git push -u origin smallfeatur
 git checkout master
 git diff smallfeature  # display difference between master and bigfeature
 git merge smallfeature
+git diff bigfeature  # display difference between master and bigfeature
 
