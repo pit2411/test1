@@ -10,3 +10,10 @@ git remote add origin https://github.com/pit2411/test1.git
 git remote -v
 git push origin master   # open new branch "master", branch "main" already exist
 git branch  # get current branch
+git branch bigfeature
+git checkout bigfeature
+git branch  
+git status # also display branch name
+git add .
+git commit -m "change text in txt.txt" -m "Some Desc"
+git push --set-upstream origin bigfeature
