@@ -9,3 +9,22 @@ git remote -v
 git remote add origin https://github.com/pit2411/test1.git
 git remote -v
 git push origin master   # open new branch "master", branch "main" already exist
+git branch  # get current branch
+git branch bigfeature
+git checkout bigfeature
+git branch  
+git status # also display branch name
+git add .
+git commit -m "change text in txt.txt" -m "Some Desc"
+git push --set-upstream origin bigfeature
+
+git checkout -b  smallfeature  # created and switched to new branch
+# make branch name descriptive as possible, pssible use char as "-" or "/", "feature-11"
+git checkout bigfeature # switch branch to "bigfeature"
+git checkout smallfeature # switch branch to "smallfeature"
+git add .
+git commit -m "change text in txt.txt small feature" -m "Some Desc"
+git push --set-upstream origin smallfeature  # or git push -u origin smallfeature
+git checkout master
+git diff bigfeature  # display difference between master and bigfeature
+
